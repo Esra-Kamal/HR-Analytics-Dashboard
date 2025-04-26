@@ -29,4 +29,4 @@ DAX for calculated measures and KPIs
 Interactive dashboard design for business users
 
 Source
-Dashboard structure inspired by the YouTube tutorial: POWER BI Tutorial From BEGINNER to Pro Level
+Dashboard structure inspired by the YouTube tutorial: https://www.youtube.com/watch?v=0BKlUySopU4
